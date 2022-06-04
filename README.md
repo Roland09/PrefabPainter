@@ -6,7 +6,7 @@ However extending it and supporting it takes its time which isn't possible anymo
 
 You can get it here:
 
-![YAPP](https://user-images.githubusercontent.com/10963432/171987558-9a36cece-c04f-43d0-accc-0879706135a1.jpg)
+[![YAPP](https://user-images.githubusercontent.com/10963432/171987558-9a36cece-c04f-43d0-accc-0879706135a1.jpg)](https://assetstore.unity.com/packages/tools/terrain/yapp-yet-another-prefab-painter-223381)
 
 **[YAPP on the Unity Asset Store](https://assetstore.unity.com/packages/tools/terrain/yapp-yet-another-prefab-painter-223381)**
 
